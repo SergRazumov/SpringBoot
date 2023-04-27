@@ -10,6 +10,7 @@ public class Main {
     SpringApplication.run(Main.class);
     System.out.println("Это ветка main");
     System.out.println("Это ветка main2");
+    System.out.println("Commit1 from Sergey для переноса");
   }
 
 }
